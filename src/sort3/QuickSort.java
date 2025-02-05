@@ -1,6 +1,6 @@
 package sort3;
 
-
+// https://youtu.be/CeHJV4zu_Ts?list=PL5BhKu-LkR_0mDGftRWeaakqGuYE1ToGG
 import java.util.Arrays;
 
 public class QuickSort {
